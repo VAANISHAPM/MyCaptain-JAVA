@@ -1,0 +1,7 @@
+package samplehello;
+
+public class samplehello{
+    public static void main(string[] args){
+        system.out.println("HELLO WORLD");
+    }
+}
