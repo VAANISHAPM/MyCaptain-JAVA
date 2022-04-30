@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Prime{
+class isprime{
 	public static void main(String[] args){
 	Scanner input = new Scanner(System.in);
 	System.out.println("Please insert any number");
